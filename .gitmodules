@@ -1,0 +1,3 @@
+[submodule "AppDrivers/BMP085-Cube"]
+	path = AppDrivers/BMP085-Cube
+	url = https://github.com/tvlad1234/BMP085-Cube.git

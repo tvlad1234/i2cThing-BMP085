@@ -12,7 +12,7 @@
 # ------------------------------------------------
 
 # drivers
-APPDRIV = dummy
+APPDRIV = BMP085-Cube
 
 #other subdirectories
 SUBDIRS = App
